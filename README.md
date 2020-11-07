@@ -1,7 +1,7 @@
 ### My name is Ilia Fedorovich. Welcome to my Github page, where I live (😄), learn and practice.
 [![Developer Badge](https://img.shields.io/badge/developer-@h3xi-blue?style=flat)](#)
 
-[![Status Badge](https://img.shields.io/badge/Status-Looking%20For%20job-success?style=for-the-badge)](#)
+[![Status Badge](https://img.shields.io/badge/Status-Looking%20For%20job-informational?style=for-the-badge)](#)
 
 #### At the moment I am actively developing in the field of Data Science (especially ML). In my spare time I create different packages for python (see my repositories). They are also all available on PyPi. Open to any cooperation. Will gladly become a part of any team.
 
