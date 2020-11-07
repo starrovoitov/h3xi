@@ -7,7 +7,7 @@ At the moment I am actively developing in the field of machine learning. In my s
   - Phone: +375295554483
   - Gmail: workplaceilfed@gmail.com
 
-### Some interesting links:
+## 💬 Some interesting links:
   - [Kaggle profile](https://www.kaggle.com/h3xi404)
   - [Codewars profile](https://www.codewars.com/users/h3xi)
   - [Linkedin profile](https://www.linkedin.com/in/alcore/)
