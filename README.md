@@ -5,7 +5,7 @@
 
 ## 💬 Contacts:
   - Phone: **+375295554483**
-  - Gmail: workplaceilfed@gmail.com
+  - Gmail: **workplaceilfed@gmail.com**
 
 ## 💬 Some interesting links:
   - [Kaggle profile](https://www.kaggle.com/h3xi404)
