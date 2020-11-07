@@ -11,7 +11,7 @@
   - [Kaggle profile](https://www.kaggle.com/h3xi404)
   - [Codewars profile](https://www.codewars.com/users/h3xi)
   - [Linkedin profile](https://www.linkedin.com/in/alcore/)
-  - [My CV (PDF)](https://rabota.by/resume_converter/Fedorovich%20Ilia.pdf?hash=d57d6b17ff072710db0039ed1f7a6f504b495a&type=pdf&hhtmSource=resume_view)
+  - **[My CV (PDF)]**(https://rabota.by/resume_converter/Fedorovich%20Ilia.pdf?hash=d57d6b17ff072710db0039ed1f7a6f504b495a&type=pdf&hhtmSource=resume_view)
 
 
 
