@@ -1,4 +1,4 @@
-### My name is Ilia Fedorovich. Welcome to my Github page, where I live (😄), learn and practice.
+### My name is Ilia Fedorovich. Welcome to my Github page, where I live 😄, learn and practice.
 [![Developer Badge](https://img.shields.io/badge/developer-@h3xi-blue?style=for-the-badge)](#)
 &nbsp;&nbsp;[![Status Badge](https://img.shields.io/badge/Status-Looking%20For%20job-informational?style=for-the-badge)](#)
 
