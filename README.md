@@ -7,6 +7,7 @@
 ## 💬 Contacts:
   - Phone: **+375295554483**
   - Gmail: **workplaceilfed@gmail.com**
+  - Telegram: **[@h3xip](https://t.me/h3xip)**
 
 ## 💬 Some interesting links:
   - [Kaggle profile](https://www.kaggle.com/h3xi404)
