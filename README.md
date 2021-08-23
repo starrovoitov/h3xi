@@ -5,8 +5,7 @@
 #### At the moment I am actively developing in the field of Data Science (especially ML). In my spare time I create different packages for python (see my repositories). They are also all available on PyPi. Open to any cooperation. Will gladly become a part of any team.
 
 ## 💬 Contacts:
-  - Phone: **+375295554483**
-  - Gmail: **workplaceilfed@gmail.com**
+  - Email: **workplaceilfed@gmail.com**
   - Telegram: **[@h3xip](https://t.me/h3xip)**
 
 ## 💬 Some interesting links:
