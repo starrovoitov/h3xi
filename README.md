@@ -1,4 +1,4 @@
-### My name is Ilia Starovoitov. Welcome to my Github page, where I learn and practice.
+### Starovoitov Ilia
 [![Developer Badge](https://img.shields.io/badge/developer-@h3xi-blue)](#)
 
 
