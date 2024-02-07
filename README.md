@@ -6,5 +6,4 @@ In my spare time I create non-profit projects aimed at improving the quality of 
 ## Additional links:
   - [Kaggle](https://www.kaggle.com/h3xi404)
   - [Codewars](https://www.codewars.com/users/h3xi)
-  - [Linkedin](https://www.linkedin.com/in/h3xi/)
 
